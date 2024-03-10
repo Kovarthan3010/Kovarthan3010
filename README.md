@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kovarthan3010
-- 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... DSA and Web Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning DSA and Web Development
 - 📫 How to reach me ... skovarthan7@gmail.com
 
 <!---
